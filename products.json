@@ -1,0 +1,109 @@
+[
+    {
+        "name":"iPhone 11",
+        "price":41000,
+        "company":"apple"
+    },
+    {
+        "name":"iPhone 13",
+        "price":59000,
+        "company":"apple"
+    }
+    ,{
+        "name":"watch",
+        "price":56,
+        "featured":false,
+        "company":"apple"
+    },
+    {
+        "name":"Samsung Galexy S23",
+        "price":74999,
+        "featured":false,
+        "company":"samsung"
+    },
+    {
+        "name":"Samsung Galexy M14 5G",
+        "price":13990,
+        "featured":false,
+        "company":"samsung"
+    },
+    {
+        "name":"Samsung Galexy A13",
+        "price":13050,
+        "featured":false,
+        "company":"samsung"
+    },
+    {
+        "name":"Lava Blaze 2",
+        "price":8999,
+        "featured":false,
+        "company":"Lava"
+    },
+    {
+        "name":"Lava Yuva Pro",
+        "price":7799,
+        "featured":false,
+        "company":"Lava"
+    },
+    {
+        "name":"Oppo Reno 8",
+        "price":29990,
+        "featured":false,
+        "company":"Oppo"
+    },
+    {
+        "name":"Oppo F23 5G",
+        "price":24999,
+        "featured":false,
+        "company":"Oppo"
+    },
+    {
+        "name":"Acer Swift X laptob",
+        "price":99990,
+        "featured":false,
+        "company":"Acer"
+    },
+    {
+        "name":"Acer Aspire 3 laptob",
+        "price":39990,
+        "featured":false,
+        "company":"Acer"
+    },
+    {
+        "name":"Lenovo ideapad Slim",
+        "price":44090,
+        "featured":false,
+        "company":"Lenovo"
+    },
+    {
+        "name":"HP Pavilion",
+        "price":57090,
+        "featured":false,
+        "company":"HP"
+    },
+    {
+        "name":"HP chromebook",
+        "price":27090,
+        "featured":false,
+        "company":"HP"
+    },
+    {
+        "name":"Asus Vivobook 15",
+        "price":27090,
+        "featured":false,
+        "company":"Asus"
+    },
+    {
+        "name":"Micromax iOne",
+        "price":5999,
+        "featured":false,
+        "company":"Micromax"
+    },
+    {
+        "name":"Micromax Infinity N11",
+        "price":6220,
+        "featured":false,
+        "company":"Micromax"
+    }
+
+]
