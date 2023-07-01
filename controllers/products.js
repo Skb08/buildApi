@@ -33,9 +33,9 @@ const getAllProducts = async(req,res)=>{
     let skip = (page - 1) * limit;
 
     // console.log(queryObject);
-    const Product = await apiData.skip(skip).limit(limit);
+    const Products = await apiData.skip(skip).limit(limit);
 
-    res.status(200).json({Product,nbHits: Product.length})
+    res.status(200).json({Products,nbHits: Products.length})
 };
 
 
